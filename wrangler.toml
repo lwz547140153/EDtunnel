@@ -1,6 +1,6 @@
 name = "edt"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2023-05-28"
 # node_compat = true
 workers_dev = true
 
